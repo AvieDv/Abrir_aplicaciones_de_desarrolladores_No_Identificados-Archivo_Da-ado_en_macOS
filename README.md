@@ -1,4 +1,4 @@
-# Abrir aplicaciones de desarrolladores No Identificados Archivo Dañado en 
+# Abrir aplicaciones de desarrolladores No Identificados Archivo Dañado en macOS.
 
 
 Ahora, en macOS también se verifican las aplicaciones iniciadas a través de la Terminal. Estos archivos obtienen el mismo escaneo de malware, verificación de firma y verificación de política de seguridad local. 
